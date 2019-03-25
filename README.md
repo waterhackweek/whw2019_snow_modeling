@@ -18,7 +18,7 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 ---
 
 ### The Problem:
-* 
+*
 
 ---
 
@@ -27,10 +27,10 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 
 ### Specific Questions/Goals:
 * How are different model configurations sensitive to forcing data?
-* 
+*
 
-### Broader Impacts and Applicaitons: 
-* 
+### Broader Impacts and Applicaitons:
+*
 ...
 
 
@@ -49,5 +49,8 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 ---
 
 ### Background Reading:
+* [Essery et al 2012: A comparison of 1701 snow models using observations from an alpine site](https://depts.washington.edu/mtnhydr/snowschool/Essery_2013.pdf)
+* [Clark et al 2015a: A unified approach for process-based hydrologic modeling: 1. Modeling concept](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2015WR017198)
+* [Clark et al 2015b: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015WR017200)
 
 =======
