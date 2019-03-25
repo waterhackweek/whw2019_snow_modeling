@@ -1,14 +1,8 @@
 # whw2019_snow_modeling
 
-Andrew Bennett
-
-Andrew Hedrick
-
-# Snowmelt
-### With Airborne Snow Observatory (ASO) Lidar Data
 ### Waterhackweek 2019
 
-Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)
+Slack channel: [#whw2019_snow_modeling]
 
 ---
 
@@ -52,3 +46,4 @@ Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5
 
 ### Background Reading:
 
+=======
