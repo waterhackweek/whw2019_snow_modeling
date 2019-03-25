@@ -23,14 +23,18 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 ---
 
 ### Data:
+
+* Col du Porte, France - 6 water years
 ---
 
 ### Specific Questions/Goals:
 * How are different model configurations sensitive to forcing data?
-*
+* Impact of layer thickness - Loop through different formulations of layer thicknesses and numbers.
+* Derive albedo parameter distribution informed by Bayesian analysis of outputs.
 
-### Broader Impacts and Applicaitons:
-*
+### Broader Impacts and Applications:
+* Multiple water years (i.e. different climatologies) will have different effects on model parameterizations.
+* Different snow regimes will display varying sensitivities to changes in parameterizations.
 ...
 
 
