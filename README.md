@@ -2,12 +2,14 @@
 
 ### Waterhackweek 2019
 
-Slack channel: [#whw2019_snow_modeling]
+Slack channel: [#whw2019_snow_modeling] (https://waterhackweek2019.slack.com/messages/CH9CULM2Q/details/)
+
+Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/binder
 
 ---
 
 ### Collaborators:
-* Andrew Bennett
+* Andrew Bennett (Project Lead)
 * Deena Hannoun-Giffen
 * Andrew Hedrick
 * Anne Heggli
@@ -21,13 +23,15 @@ Slack channel: [#whw2019_snow_modeling]
 ---
 
 ### Data:
-
 ---
 
 ### Specific Questions/Goals:
+* How are different model configurations sensitive to forcing data?
+* 
 
 ### Broader Impacts and Applicaitons: 
-* ...
+* 
+...
 
 
 ---
