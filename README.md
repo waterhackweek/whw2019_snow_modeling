@@ -44,7 +44,7 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 ---
 
 ### Proposed Methods/Tools:
-* ...
+* [pysumma](https://github.com/arbennett/pysumma/tree/feature/ensemble) - This links to a specific version of @arbennett's code which has support for running ensembles of SUMMA runs.
 
 ---
 
