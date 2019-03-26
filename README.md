@@ -2,9 +2,9 @@
 
 ### Waterhackweek 2019
 
-Slack channel: [#whw2019_snow_modeling] (https://waterhackweek2019.slack.com/messages/CH9CULM2Q/details/)
+Slack channel: [#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q/details/)
 
-Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/binder
+Binder URL: [SUMMA_on_Pangeo](https://binder.pangeo.io/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/binder)
 
 ---
 
