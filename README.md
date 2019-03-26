@@ -24,7 +24,8 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 
 ### Data:
 
-* Col du Porte, France - 6 water years
+* CUES (CRREL/UCSB Energy Site) energy balance site, Mammoth Mountain, California [elev. 2940 m]
+
 ---
 
 ### Specific Questions/Goals:
@@ -56,5 +57,6 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 * [Essery et al 2012: A comparison of 1701 snow models using observations from an alpine site](https://depts.washington.edu/mtnhydr/snowschool/Essery_2013.pdf)
 * [Clark et al 2015a: A unified approach for process-based hydrologic modeling: 1. Modeling concept](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2015WR017198)
 * [Clark et al 2015b: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015WR017200)
+* [Bair et al 2015: CUES—a study site for measuring snowpack energy balance in the Sierra Nevada](https://www.frontiersin.org/articles/10.3389/feart.2015.00058/full)
 
 =======
