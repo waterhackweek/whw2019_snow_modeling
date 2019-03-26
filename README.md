@@ -10,15 +10,17 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 
 ### Collaborators:
 * Andrew Bennett (Project Lead)
+* Nicoleta Cristea
 * Deena Hannoun-Giffen
 * Andrew Hedrick
 * Anne Heggli
+* Bart Nijssen
 * Steven Pestana
 
 ---
 
 ### The Problem:
-*
+* SUMMA (the Structure for Unifying Multiple Modeling Alternatives) is a integrated snow hydrology model written in Fortran. As such, PySUMMA was developed as a python wrapper to the compiled Fortran code. This workgroup will explore a variety of fundamental yet important science questions relating to the snowpack energy balance.
 
 ---
 
@@ -50,6 +52,8 @@ Binder URL: https://mybinder.org/v2/gh/bartnijssen/hydroshare-pangeo-notebooks/b
 
 ### Proposed Methods/Tools:
 * [pysumma](https://github.com/arbennett/pysumma/tree/feature/ensemble) - This links to a specific version of @arbennett's code which has support for running ensembles of SUMMA runs.
+
+* [SUMMA](https://www.hydroshare.org/resource/a5dbd5b198c9468387f59f3fefc11e22/) - This links to the SUMMA model page on HydroShare.
 
 ---
 
