@@ -1,4 +1,4 @@
-# whw2019_snow_modeling
+# Snow Modeling with SUMMA and pysumma
 
 ### Waterhackweek 2019
 
