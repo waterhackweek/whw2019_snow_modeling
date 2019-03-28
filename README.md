@@ -63,4 +63,9 @@ Binder URL: [SUMMA_on_Pangeo](https://binder.pangeo.io/v2/gh/bartnijssen/hydrosh
 * [Clark et al 2015b: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015WR017200)
 * [Bair et al 2015: CUES—a study site for measuring snowpack energy balance in the Sierra Nevada](https://www.frontiersin.org/articles/10.3389/feart.2015.00058/full)
 
-=======
+### To get started
+1. Go to https://staging.hydro.pangeo.io/
+2. Start a terminal 
+3. Download the repository with:
+   `git clone https://github.com/waterhackweek/whw2019_snow_modeling.git`
+4. Open the `whw2019_snow_modeling/notebooks/pysumma_example.ipynb` notebook
